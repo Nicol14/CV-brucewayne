@@ -1,0 +1,17 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.listas {
+  text-align: left;
+}
+.titulos {
+  border: solid 5px;
+  border-color: royalblue;
+  text-align: center;
+}
+#contenedor {
+  border: solid;
+  background-color: royalblue;
+  position: relative;
+  float: right;
+}
